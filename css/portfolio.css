@@ -1,12 +1,29 @@
 #header{
   height: 500px;
   background-image: url("http://img.danawa.com/cp_images/service/162/3363650/149181343387438160459.jpg");
-  background-cover:
 }
 .header_text{
   height: 500px
 }
-hr{
+#header hr{
   width:60px;
-  border-top: 1px solid rgba(255,193,7,0.8)
+  border-top: 3px solid rgba(255,193,7,0.8)
+}
+
+#about{
+  height: 500px;
+  background: linear-gradient( to bottom,  #FF0000, aqua );
+
+}
+.about_text{
+  height: 500px
+}
+
+#about hr{
+  width:60px;
+  border-top: 3px solid rgba(255,193,7,0.8)
+}
+
+.portfolio_text{
+  height: 500px
 }
