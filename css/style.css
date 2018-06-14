@@ -1,0 +1,49 @@
+.red{
+  color: red;
+}
+
+h1 {
+  color: red;
+}
+
+#red {
+  color: red;
+}
+
+/* .white{
+  color: aqua!important;
+} */
+
+div.red{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  color: white;
+  font-size: 20px;
+
+}
+div.blue{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  color: white;
+  font-size: 20px;
+}
+
+.right{
+  margin-left: auto;
+}
+.left{
+  margin-right: : auto;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+.f-left{
+  float: left;
+}
+.f-right{
+  float: right;
+}
